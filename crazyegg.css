@@ -1,0 +1,67 @@
+.link {
+    color: blue;
+    font-size: 12px;
+    text-align: right;
+    margin-right: 5px;
+}
+
+span {
+    text-align: left;
+    color: purple;
+    font: 12px bolder;
+}
+
+img {
+    height: 30px;
+    width: 60px;
+    margin-left: 20px;
+    border: none;
+    box-shadow: 1px 1px 2px 1px grey;
+}
+
+.myIndent {
+    float: right;
+    margin: auto;
+    text-align: center;
+    width: 60%;
+}
+
+h5,
+.mybtn,
+.myInput,
+.text-muted {
+    font-size: 13px;
+}
+
+.myInput {
+    color: rgba(250, 243, 243, 0.767);
+    opacity: 0.3;
+    width: 55%;
+}
+
+h2 {
+    font-size: 40px;
+    color: rgb(75, 75, 75);
+}
+
+.bar {
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px 1px rgb(238, 234, 234);
+}
+
+.mybtn {
+    color: white;
+    width: 45%;
+    padding: 4px 15px;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+}
+
+.lastele {
+    margin-right: 40%;
+    float: right;
+}
+
+{}
